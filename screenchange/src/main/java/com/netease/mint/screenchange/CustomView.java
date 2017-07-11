@@ -5,15 +5,15 @@ import android.content.res.Configuration;
 import android.graphics.Canvas;
 import android.os.Parcelable;
 import android.support.annotation.Nullable;
+import android.support.constraint.ConstraintLayout;
 import android.util.AttributeSet;
 import android.util.Log;
-import android.view.View;
 
 /**
  * Created by bjmaoqisheng on 2017/6/19.
  */
 
-public class CustomView extends View{
+public class CustomView extends ConstraintLayout {
     private static final String TAG = "CustomView";
     public CustomView(Context context) {
         super(context);

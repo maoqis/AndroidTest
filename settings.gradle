@@ -1,1 +1,1 @@
-include ':app', ':screenchange'
+include ':app', ':screenchange', ':inputmethodholder'
