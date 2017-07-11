@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenChange</string>
+    <string name="change_screen_orientation">切换横竖屏</string>
+</resources>
